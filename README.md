@@ -1,6 +1,5 @@
 
-
-
+I automated the remote connection and data extraction of 97% of Hensel Phelp’s Microsoft servers. I then adjusted my code so it can perform more efficiently, which is why there are two versions. My first attempt created individual, sequential and alphabetically ordered remote connections. In my second attempt I went back and revised my code by adding all necessary information at once in an array and created batches of 50 connections which brought down the time from 6-7 minutes to less than 30 seconds
 
 
 
