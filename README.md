@@ -4,6 +4,14 @@ I automated the remote connection and data extraction of 97% of Hensel Phelp’s
 
 
 
+Access to video of script being Demo-ed:
+https://github.com/Jared-Hernandez/SMB-File-Share-Automation/issues/1#issue-5175441609
+
+
+
+
+
+
 
 
 Special shout outs to these resources that helped me with my task:
